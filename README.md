@@ -1,4 +1,8 @@
 # QGIS3-Generalizacje
+<!-- badges: start -->
+[![Lifecycle:
+archived](https://img.shields.io/badge/lifecycle-archived-red.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+<!-- badges: end -->
 
 [PL]
 Skrypty tworzone były dla QGISa 3.0 i nadają się do bezpośredniego użycia w programie. 
